@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-color: #282438;
+
+}
+
+.test {
+  gap: 5px;
+}
+
+body {
+ background: var(--bg-color);
+}
