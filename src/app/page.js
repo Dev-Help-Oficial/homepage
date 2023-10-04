@@ -16,7 +16,7 @@ const contents = [
     description: 'Junte-se à nossa comunidade do Discord',
     link: 'https://discord.gg/vNpPh6XTE9',
     linkText: 'Entrar',
-    imageUrl: 'URL da imagem 2',
+    imageUrl: '/images/f2.png',
   },
 ];
 
